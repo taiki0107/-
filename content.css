@@ -1,0 +1,14 @@
+body {
+    margin-left:350px;
+    margin-right:350px;
+    background-color: aquamarine;
+}
+
+h2 {
+    text-align: center;
+}
+
+.button {
+    text-decoration: none;
+    color:black;
+}
